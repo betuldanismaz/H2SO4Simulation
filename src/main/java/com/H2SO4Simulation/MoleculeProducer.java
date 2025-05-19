@@ -1,4 +1,4 @@
-//BETÜL DANIŞMAZ 220601019 (BİLMÜH)
+//
 package com.H2SO4Simulation;
 import java.util.concurrent.Semaphore;
 public class MoleculeProducer extends Thread {
